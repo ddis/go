@@ -1,0 +1,6 @@
+.idea
+*.exe
+*.txt
+
+bin
+pkg 
